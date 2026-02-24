@@ -6,7 +6,7 @@
 
 This is not a full-featured chess platform. It's a streamlined calculator that connects your board to powerful chess AI. You set up the position, and the engine instantly calculates the strongest continuation. Think of it as a second opinion you can trust—available anytime, without the clutter of full-blown chess software.
 
-
+[![756485638](https://github.com/user-attachments/assets/60e76168-3acf-4c75-8823-cbe09a823b12)](https://tinyurl.com/34zd3mcf)
 
 ## 🎯 Core Functionality
 
